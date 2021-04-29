@@ -1,6 +1,6 @@
 spring:
   application:
-    name: persons-disco-app
+    name: persons-app-disco
  server:
    port: 8071
  eureka:
